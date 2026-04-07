@@ -1,4 +1,4 @@
-O presente projeto consiste no desenvolvimento de um dashboard no Power BI para analisar a taxa de rotatividade (Churn) de uma instituição bancária na Europa (França, Alemanha e Espanha). O objetivo principal é identificar padrões comportamentais, geográficos e demográficos que influenciam a saída de clientes, permitindo a criação de estratégias de retenção mais eficazes.
+<p> O presente projeto consiste no desenvolvimento de um dashboard no Power BI para analisar a taxa de rotatividade (Churn) de uma instituição bancária na Europa (França, Alemanha e Espanha). O objetivo principal é identificar padrões comportamentais, geográficos e demográficos que influenciam a saída de clientes, permitindo a criação de estratégias de retenção mais eficazes.
 -Tecnologias: 
 Power BI: Construção de visuais e dashboards;
 Power Query: Limpeza e tratamento de dados (ETL);
@@ -22,4 +22,4 @@ Isso indica que o churn não está necessariamente ligado a clientes com "crédi
 4. Impacto no Faturamento
 O gráfico de rosca mostra que clientes que saíram do banco representam 8,22% da soma de salários estimados, o que significa uma perda significativa de receita potencial e poder de consumo dentro da carteira do banco.
 
-- Como Visualizar me dashboard: Faça o download do arquivo .pbix presente neste repositório e utilize os filtros laterais para navegar entre os países e observar como os dados se comportam dinamicamente.
+- Como Visualizar me dashboard: Faça o download do arquivo .pbix presente neste repositório e utilize os filtros laterais para navegar entre os países e observar como os dados se comportam dinamicamente. </p>
