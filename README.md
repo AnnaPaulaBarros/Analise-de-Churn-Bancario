@@ -1,11 +1,12 @@
 <p> O presente projeto consiste no desenvolvimento de um dashboard no Power BI para analisar a taxa de rotatividade (Churn) de uma instituição bancária na Europa (França, Alemanha e Espanha). O objetivo principal é identificar padrões comportamentais, geográficos e demográficos que influenciam a saída de clientes, permitindo a criação de estratégias de retenção mais eficazes.
--Tecnologias: 
+
+- Tecnologias: 
 Power BI: Construção de visuais e dashboards;
 Power Query: Limpeza e tratamento de dados (ETL);
 DAX (Data Analysis Expressions): Criação de medidas personalizadas como Taxa de Churn, Saldo Médio e Quantidade de Churn;
 Modelagem de Dados: Relacionamentos entre tabelas para filtros dinâmicos.
 
--Análises e Insights Extraídos
+- Análises e Insights Extraídos
 1. Perfil Demográfico de Risco
 Através do gráfico de Taxa de Churn por idade e género, identifiquei um padrão crítico:
 Pico de Evasão: Há uma subida acentuada no churn entre os 45 e 55 anos.
